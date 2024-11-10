@@ -54,7 +54,7 @@ const Navbar = () => {
       <div className="bg-white shadow-lg rounded-b-lg p-4 flex justify-between items-center z-40 w-full">
         <div className="flex items-center">
           <img src={logo} alt="Logo" className="h-12 w-12 mr-4" />
-          <span className="text-3xl font-bold">Nature Delight Foundation</span>
+          <span className="text-3xl font-bold">Nature Delight</span>
         </div>
         <div className="lg:flex md:flex lg:flex-1 items-center justify-end font-normal hidden">
           <ul className="flex gap-8 text-[18px] list-none">
